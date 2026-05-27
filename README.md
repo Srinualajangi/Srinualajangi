@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-- 🔧 **DevOps & Cloud Engineer** with **4+ years** of experience
+- 🔧 **DevOps & Cloud Engineer** with **5+ years** of experience
 - ☁️ Currently working at **Applied Materials** as a DevOps Engineer
 - 🏗️ Specialized in **CI/CD Pipeline Design**, **Kubernetes Orchestration**, and **Infrastructure as Code**
 - 🔐 Experienced in **DevSecOps** — SAST/DAST integration into pipelines
